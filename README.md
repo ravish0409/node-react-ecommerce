@@ -25,7 +25,7 @@ $ npm start
 
 For New version of node:
 
-first run ```set NODE_OPTIONS=--openssl-legacy-provider to solve digital envelope routines```
+first run ```set NODE_OPTIONS=--openssl-legacy-provider``` to solve digital envelope routines
 
 
 ```
