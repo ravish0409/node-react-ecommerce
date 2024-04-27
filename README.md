@@ -22,6 +22,12 @@ $ npm start
 
 ### 4. Run Frontend
 
+
+For New version of node:
+
+first run set NODE_OPTIONS=--openssl-legacy-provider to solve digital envelope routines
+
+
 ```
 # open new terminal
 $ cd frontend
